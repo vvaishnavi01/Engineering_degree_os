@@ -1,0 +1,24 @@
+semester,course_code,course_name,credits,syllabus,status
+1,MA101,Engineering Mathematics 1,4,"Matrices; calculus; differential equations",Completed
+1,PH101,Engineering Physics,4,"Waves; optics; semiconductors",Completed
+1,CS101,Problem Solving & Programming in C,4,"Pointers; structures; file IO; recursion",Completed
+2,CS201,Object Oriented Programming,4,"Classes; inheritance; polymorphism; Java",Completed
+2,EC201,Digital Electronics,4,"Logic gates; flip-flops; sequential circuits",Completed
+2,CS202,Data Structures,4,"Arrays; linked lists; stacks; queues",Completed
+3,CS301,Data Structures & Algorithms,4,"Stacks; queues; trees; graphs",In Progress
+3,CS302,Operating Systems,4,"Processes; CPU scheduling; memory management",In Progress
+3,CS303,Computer Architecture,4,"Instruction pipeline; cache memory; ALU design",In Progress
+4,CS401,Database Management Systems,4,"SQL; ER modeling; normalization; transactions",Not Started
+4,CS402,Software Engineering,4,"Agile SDLC; UML diagrams; testing strategies",Not Started
+4,CS403,Theory of Computation,4,"Finite automata; context-free grammars; Turing machines",Not Started
+5,CS501,Computer Networks,4,"TCP/IP model; routing protocols; socket programming",Not Started
+5,CS502,Design & Analysis of Algorithms,4,"Dynamic programming; greedy algorithms; NP-completeness",Not Started
+5,CS503,Web Development,4,"HTML5; CSS3; JavaScript ES6; React framework",Not Started
+6,CS601,Artificial Intelligence,4,"Search algorithms; knowledge representation; machine learning",Not Started
+6,CS602,Compiler Design,4,"Lexical analysis; parsing; intermediate code generation",Not Started
+6,CS603,Cloud Computing,4,"Virtualization; AWS services; microservices",Not Started
+7,CS701,Information & Network Security,4,"Cryptography; public key infrastructure; network firewalls",Not Started
+7,CS702,Elective I - Deep Learning,4,"Neural networks; CNNs; RNNs; PyTorch",Not Started
+7,CS703,Cap Project Phase 1,3,"Literature review; system architecture design",Not Started
+8,CS801,Elective II - DevOps & CI/CD,4,"Docker; Kubernetes; GitHub Actions; Terraform",Not Started
+8,CS802,Cap Project Phase 2,6,"Full implementation; empirical analysis; thesis defense",Not Started
